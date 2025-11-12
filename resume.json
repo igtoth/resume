@@ -4,7 +4,7 @@
 		"Master's in Data Science and Machine Learning (In Progress)",
 		"Bachelor's Degree in Electrical Engineering"
 	],
-        "SKILLS": [
+	"SKILLS": [
 		"Python", "Shell", "SQL", "C", "PHP",
 		"Jenkins", "Ansible", "Docker", "Git", "Kubernetes",
 		"Telecom", "SIP", "Genesys", "Avaya", "Cisco"
